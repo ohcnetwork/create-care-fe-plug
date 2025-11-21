@@ -1,0 +1,10 @@
+# Exclude template's node_modules from npm package
+template/node_modules/
+template/package-lock.json
+
+# Exclude development files
+.git/
+.gitignore
+*.log
+.DS_Store
+
