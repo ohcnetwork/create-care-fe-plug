@@ -1,11 +1,11 @@
 {
-  "name": "create-care-fe-plug",
+  "name": "create-care-mfe-plug",
   "version": "1.0.0",
   "description": "CLI tool to scaffold Care FE plugins",
   "type": "module",
   "main": "src/init.js",
   "bin": {
-    "create-care-fe-plug": "./bin/cli.js"
+    "create-care-mfe-plug": "./bin/cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

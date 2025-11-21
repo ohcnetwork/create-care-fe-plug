@@ -1,4 +1,4 @@
-# create-care-fe-plug
+# create-care-mfe-plug
 
 CLI tool to scaffold Care FE plugins quickly and easily.
 
@@ -7,14 +7,14 @@ CLI tool to scaffold Care FE plugins quickly and easily.
 ### Using npx (Recommended)
 
 ```bash
-npx create-care-fe-plug my-plugin-name
+npx create-care-mfe-plug my-plugin-name
 ```
 
 ### Using npm
 
 ```bash
-npm install -g create-care-fe-plug
-create-care-fe-plug my-plugin-name
+npm install -g create-care-mfe-plug
+create-care-mfe-plug my-plugin-name
 ```
 
 ### Interactive Mode
@@ -22,7 +22,7 @@ create-care-fe-plug my-plugin-name
 If you don't provide a project name, the CLI will prompt you for one:
 
 ```bash
-npx create-care-fe-plug
+npx create-care-mfe-plug
 ```
 
 ## What it does
@@ -42,7 +42,7 @@ The CLI will:
 ## Example
 
 ```bash
-$ npx create-care-fe-plug care-patient-vitals
+$ npx create-care-mfe-plug care-patient-vitals
 
 🏥 Create Care FE Plugin
 
